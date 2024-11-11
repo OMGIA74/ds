@@ -10,5 +10,4 @@ fil.describe()
 fil.columns
 sb.pairplot(fil)
 sb.heatmap(fil)
-sb.color_palette("magma", as_cmap=True)
 plt.show()
